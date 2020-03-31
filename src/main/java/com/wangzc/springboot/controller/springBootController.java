@@ -11,6 +11,7 @@ public class springBootController {
     @ResponseBody
     public String getShow(){
         System.out.println("这是个测试git");
+        System.out.println("hahhaha....");
         return "Hello World";
     }
 
